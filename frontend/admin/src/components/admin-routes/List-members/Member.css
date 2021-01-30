@@ -1,0 +1,21 @@
+.button {
+    cursor: pointer;
+    color: #1e92ab
+}
+
+.cursor {
+    cursor: pointer;
+
+}
+
+.create {
+    margin-left: 30px;
+    margin-bottom: 20px;
+    color: #1e92ab;
+    
+}
+.btn:hover {
+    
+    background-color: #1e92aa;
+    
+}
